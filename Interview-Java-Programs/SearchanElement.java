@@ -13,6 +13,7 @@ public class SearchanElement {
         return -1;
     }
 
+
     public static void main(String[] args) {
         int[] arr = { 1, 2, 34, 5, 5 };
         System.err.println("\nindex is " + returnelementindex(arr, 34));
