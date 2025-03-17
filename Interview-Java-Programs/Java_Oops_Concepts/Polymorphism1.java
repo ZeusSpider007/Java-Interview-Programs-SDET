@@ -10,6 +10,11 @@ Types of Polymorphism:
 //When multiple methods in the same class have the same name but different parameters (different number or type of arguments).
 //Method Overloading is a feature in Java that allows multiple methods with the same name but different parameters in the same class. The difference can be in:
 
+// Rules for Method Overloading:
+
+// Methods must have the same name but different parameters.
+// Return type does not distinguish overloaded methods.
+
 //1.Number of parameters
 //2.Type of parameters
 //3.Order of parameters
