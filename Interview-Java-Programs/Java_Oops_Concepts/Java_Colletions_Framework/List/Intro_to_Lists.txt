@@ -1,0 +1,13 @@
+In Java, a List is an ordered collection that:
+✅ Allows duplicate elements
+✅ Preserves insertion order
+✅ Provides indexed access
+
+The List interface is part of the Java Collections Framework (JCF) 
+
+🛠 Types of Lists in Java
+Java provides 3 main implementations of List:
+
+1- ArrayList → Fast retrieval, slow modifications
+2- LinkedList → Fast modifications, slow retrieval
+3- Vector (Legacy) → Thread-safe but slow
