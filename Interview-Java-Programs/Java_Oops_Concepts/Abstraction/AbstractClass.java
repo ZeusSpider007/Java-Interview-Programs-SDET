@@ -4,7 +4,8 @@ package Java_Oops_Concepts.Abstraction;
 abstract class Calculator {
 
     // abstract method - any child class which is inherting the abstract class
-    // calculator should implement this method Multiple or there will be error in compilation.
+    // calculator should implement this method Multiple or there will be error in
+    // compilation.
     abstract int Multiply(int a, int b);
 
     // concrete method
