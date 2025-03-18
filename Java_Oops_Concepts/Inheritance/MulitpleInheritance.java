@@ -4,21 +4,21 @@ package Java_Oops_Concepts.Inheritance;
 //2️⃣ Multiple interface inheritance is allowed, as the implementing class must override conflicting methods to resolve ambiguity.
 //3️⃣ Best practice: Use interfaces for multiple inheritance in Java.
 
-class A {
+class AX {
 
     public void show(){
         System.out.println("I am show in A");
     }
 }
 
-class B {
+class BX {
 
     public void show(){
         System.out.println("I am show in B");
     }
 }
 
-/*class C extends A, B{ // ❌ Compilation Error: Java does not support multiple inheritance
+/*class C extends AX, BX{ // ❌ Compilation Error: Java does not support multiple inheritance
 
 }*/
 
