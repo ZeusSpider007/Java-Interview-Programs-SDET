@@ -1,4 +1,4 @@
-package Java_Oops_Concepts;
+package Java_Oops_Concepts.Inheritance;
 
 //1️⃣ Multiple class inheritance is not allowed in Java because of method ambiguity (Diamond Problem).
 //2️⃣ Multiple interface inheritance is allowed, as the implementing class must override conflicting methods to resolve ambiguity.

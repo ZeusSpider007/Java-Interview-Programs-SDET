@@ -1,4 +1,4 @@
-package Java_Oops_Concepts;
+package Java_Oops_Concepts.Encapsulation;
 /*Encapsulation is the process of wrapping data (fields) and methods (behaviors) into a single unit (class) 
 while restricting direct access to some details. 
 It is implemented using access modifiers (private, protected, public, default).*/

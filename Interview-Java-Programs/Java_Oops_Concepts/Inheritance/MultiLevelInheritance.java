@@ -1,4 +1,4 @@
-package Java_Oops_Concepts;
+package Java_Oops_Concepts.Inheritance;
 //Multilevel Inheritance - A class inherits from a derived class.
 
 class Grandparent {

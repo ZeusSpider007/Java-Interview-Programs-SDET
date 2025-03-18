@@ -1,4 +1,4 @@
-package Java_Oops_Concepts;
+package Java_Oops_Concepts.Polymorphism;
 
 /*Polymorphism means "many forms" and allows the same method or operator to perform different functions.
 

@@ -1,4 +1,4 @@
-package Java_Oops_Concepts;
+package Java_Oops_Concepts.Inheritance;
 
 //Inheritance allows a class (child/subclass) to acquire the properties and behavior of another class (parent/superclass). This promotes code reusability.
 //In single inheritance, a child class inherits from a single parent class.

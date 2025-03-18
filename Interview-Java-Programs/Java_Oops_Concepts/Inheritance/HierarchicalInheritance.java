@@ -1,4 +1,4 @@
-package Java_Oops_Concepts;
+package Java_Oops_Concepts.Inheritance;
 //Hierarchical Inheritance - Multiple classes inherit from a single parent.
 
 class A {
