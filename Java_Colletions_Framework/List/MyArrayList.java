@@ -1,5 +1,3 @@
-package Java_Oops_Concepts.Java_Colletions_Framework.List;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
@@ -25,9 +23,6 @@ removed from an ArrayList whenever you want.
     List<Double> decimals = new ArrayList<>();
     List<Character> letters = new ArrayList<>();
     List<Boolean> flags = new ArrayList<>();
-
-
-
 */
 
 public class MyArrayList {

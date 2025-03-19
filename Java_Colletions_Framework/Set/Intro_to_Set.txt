@@ -1,0 +1,24 @@
+Set in Java
+In Java, a Set is an unordered collection that:
+✅ Does not allow duplicate elements
+✅ Does not provide indexed access (no get(index))
+✅ Implements the Set interface in the Java Collections Framework (JCF)
+
+🛠 Types of Sets in Java
+Java provides two commonly used implementations of Set:
+
+1️⃣ HashSet → Fastest performance, no ordering, backed by a HashMap
+2️⃣ LinkedHashSet → Maintains insertion order, slightly slower than HashSet
+
+⚡ Quick Comparisons
+Feature	                    HashSet	                                        LinkedHashSet
+Allows Duplicates?	           ❌ No	                                            ❌ No
+Maintains Order?	           ❌ No (Unordered)	                                ✅ Yes (Insertion Order Preserved)
+Performance	                   ✅ Fast (O(1) on average)	                        🔶 Slightly slower than HashSet
+Internal Structure	            Uses HashMap internally	                          Uses LinkedHashMap internally
+Best Use Case	                performance is a priority.	                      order preservation.
+
+
+🚀 Summary
+Use HashSet when ordering is not important and you need the best performance.
+Use LinkedHashSet when you need to preserve the insertion order of elements.
