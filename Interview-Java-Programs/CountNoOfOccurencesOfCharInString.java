@@ -5,7 +5,7 @@ class CountNoOfOccurencesOfCharInString {
 
         int count = 0;
 
-        for(c in input.toCharArray()){
+        for(char c : input.toCharArray()){
         if(c==charinput){
             count++;
 
