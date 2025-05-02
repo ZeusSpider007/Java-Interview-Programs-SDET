@@ -1,5 +1,5 @@
 //count the number of occurences of a char in a string
-class CountNoOfOccurencesOfCharInString {
+public class CountNoOfOccurencesOfCharInString {
 
     public int OccurencesofCharinString(String input, char charinput){
 
