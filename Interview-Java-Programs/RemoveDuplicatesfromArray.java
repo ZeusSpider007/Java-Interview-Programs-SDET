@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class RemoveDuplicates {
+public class RemoveDuplicatesfromArray {
 
   // remove duplicate elments from numeric array
 
