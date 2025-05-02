@@ -1,0 +1,25 @@
+//count the number of occurences of a char in a string
+class CountNoOfOccurencesOfCharInString {
+
+    public int OccurencesofCharinString(String input, char charinput){
+
+        int count = 0;
+
+        for(c in input.toCharArray()){
+        if(c==charinput){
+            count++;
+
+        }
+
+        }
+        return count;
+
+    }
+
+    public static void main(String[] args) {
+        CountNoOfOccurencesOfCharInString c = new CountNoOfOccurencesOfCharInString();
+        int result = c.OccurencesofCharinString("Hexaware", 'x');
+        System.out.println(result);
+
+    }
+}
