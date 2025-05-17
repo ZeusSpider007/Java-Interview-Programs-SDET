@@ -3,6 +3,7 @@ package Java_Oops_Concepts.Interfaces;
 interface Vehicle {
     void start(); // Abstract method (no implementation)
 
+
     // Concrete method using 'default'
     default void stop() {
         System.out.println("Vehicle is stopping...");
